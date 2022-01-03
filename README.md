@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python and general Data Science  
 - 💞️ I’m looking to collaborate on interesting beginner projects 
-- 📫 How to reach me: j.alvaro.cruz.f@gmail.com
 
 <!---
 Spinne89/Spinne89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
